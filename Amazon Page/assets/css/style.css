@@ -1,1 +1,169 @@
-/* Your styles here */
+body {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 1rem;
+ background-color: rgb(232, 236, 237);
+ width: 1600px;
+
+}
+
+header {
+    width: 1600px;
+    align-items: start;
+   
+}
+
+.amazonlogo {
+    background-color: rgb(37, 51, 65);
+padding-left: 30px;
+padding-bottom: 5px;
+padding-top: 5px;
+}
+
+header div img{
+    width: 100px;
+    height: auto;
+}
+
+.menu {
+    padding-top: 5px;
+    padding-bottom: 20px;
+    background-color: rgb(55,73,90);
+}
+
+ul li {
+    background-color: rgb(55,73,90);
+    background-size: 1600px;
+    list-style-type: none;
+    padding-left: 30px;
+    float:left;
+    
+}
+
+ul li a {
+    color: white;
+    text-decoration: none;
+
+}
+
+main {
+    padding-left: 40px;
+    padding-right: 40px;
+    width: 1600px;
+}
+
+.shop{
+    background-color: rgb(251, 97, 8);
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.christmasdeco{
+    background-image: url("../images/bg-image.png");
+    background-position: center;
+    height: 200px;
+    text-align: center;
+    color: white;
+    margin-right: 80px;
+
+}
+
+h1 {
+    padding-top: 40px;
+    font-weight: bold;
+    font-size: 1.7rem;
+    line-height: 3;
+
+    
+}
+
+h4 {
+    font-weight: bold;
+}
+
+.imgcenter {
+    width: auto;
+}
+
+.perfectgift{
+    background-color: white;
+    margin-top: 30px;
+    margin-right: 80px;
+    margin-bottom:30px;
+     
+}
+
+.perfectgift p{
+    padding: 10px 10px 10px 10px; 
+}
+.perfectgift a {
+    padding-left: 30px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.perfectgift img {
+    display: inline-block;
+    margin: auto;
+    box-shadow: 0 3px 3px rgb(211, 210, 210);
+    height: auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    margin: 0px 20px 0px 20px;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.center img {
+    width: 1520px;
+    height: auto;
+    align-items: center;
+}
+
+.center p {
+    text-align: center;
+    margin-bottom: 30px;
+    padding-top: 5px;
+
+}
+
+.center a {
+    font-weight: bold;
+    text-decoration: none;
+    padding-left: 20px;
+   
+
+}
+
+footer {
+    background-size: 1600px;
+    text-align: center;
+}
+
+footer img {
+    width: 100px;
+    height: auto;
+}
+
+
+.bottom {
+    background-color: rgb(55,73,90); ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+ 
+}
+.bottom a {
+    color: white;
+    font-size: 0.8rem;
+}
+
+.bottomlog {
+    background-color: rgb(37, 51, 65);
+    padding: 50px 0px 50px 0px;
+}
