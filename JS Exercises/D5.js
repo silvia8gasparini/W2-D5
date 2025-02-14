@@ -187,10 +187,11 @@ const numericArray = [
 ]
 
 let i = 0
-while(numericArray[i] < 32) {
+
+while (numericArray[i] !== 32) {
   console.log(numericArray[i], i++)
 }
-
+  
 
 /* ESERCIZIO 10
     Partendo dall'array fornito e utilizzando un costrutto switch, genera un nuovo array composto dalle posizioni di ogni carattere all'interno
