@@ -99,7 +99,7 @@ h4 {
 }
 
 .perfectgift p{
-    padding: 10px 10px 10px 10px; 
+    padding: 15px 15px 15px 15px; 
 }
 .perfectgift a {
     padding-left: 30px;
@@ -109,15 +109,11 @@ h4 {
 
 .perfectgift img {
     display: inline-block;
-    margin: auto;
     box-shadow: 0 3px 3px rgb(211, 210, 210);
-    height: auto;
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     border-radius: 20px;
-    margin: 0px 20px 0px 20px;
-    align-items: center;
-    margin-bottom: 10px;
+    margin: 0px 30px 20px 40px;
 }
 
 .center img {
